@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/PIC24_MPLAB.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>5514</used>
+      <free>2678</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>65280</length>
+      <used>20412</used>
+      <free>44868</free>
+    </memory>
+  </executable>
+</project>
